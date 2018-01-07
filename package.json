@@ -5,7 +5,7 @@
     "url": "https://github.com/nelsonic/learn-travis.git"
   },
   "description": "Simple nodejs, travis and grunt demo",
-  "author": "https://twitter.com/nelsonic",
+  "author": "Nelson",
   "version": "1.0.0",
   "devDependencies": {
     "jshint": "^2.8.0"
